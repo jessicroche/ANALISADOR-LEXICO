@@ -1,0 +1,7 @@
+se
+sai
+foi
+brie
+
+<S> ::= b<A> | r<A> | t<A>
+<A> ::= e<A> | i<A> | a<A> | *
